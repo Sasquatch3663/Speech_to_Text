@@ -1,0 +1,7 @@
+Python 3.x
+speechrecognition
+pyttsx3
+pyaudio
+
+Install dependencies with:
+pip install -r requirements.txt
